@@ -24,10 +24,11 @@ button3.onclick = fightDragon;
 
 
 
+
 function goCave() {
-    console.log("Going to cave.");
-  }
-  
-  function fightDragon() {
-    console.log("Fighting dragon.");
-  }
+  console.log("Going to cave.");
+}
+
+function fightDragon() {
+  console.log("Fighting dragon.");
+}
